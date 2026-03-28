@@ -2,9 +2,9 @@
 
 ## Abstract
 
-In a theoretical, frictionless market, interest rate swap spreads should remain positive to reflect the counterparty credit risk inherent in interbank lending relative to "risk-free" sovereign debt. However, the European 30-year swap spread (EUSS30) has persistently exhibited negative values.
+In a theoretical, frictionless market, interest rate swap spreads should remain positive to reflect the counterparty credit risk inherent in interbank lending relative to "risk-free" sovereign debt. However, the European 30-year swap spread (EUSS30) has negative values.
 
-This paper examines the structural, regulatory, and mechanical drivers behind this anomaly. By analyzing the Liability-Driven Investment (LDI) squeeze, collateral scarcity, and the regulatory limits to arbitrage (such as Basel III and the Supplementary Leverage Ratio), this research demonstrates that negative swap spreads are not a market mispricing, but rather a rational reflection of systemic constraints, shadow capital costs, and the inelastic demand for long-duration synthetic assets.
+This research document examines the structural, regulatory, and mechanical drivers behind this anomaly. By analyzing the Liability-Driven Investment (LDI) squeeze, collateral scarcity, and the regulatory limits to arbitrage (such as Basel III and the Supplementary Leverage Ratio), this research demonstrates that negative swap spreads are not a market mispricing, but rather a rational reflection of systemic constraints, shadow capital costs, and the inelastic demand for long-duration synthetic assets.
 
 ## 1. Introduction and Theoretical Framework
 
